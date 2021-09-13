@@ -1,12 +1,12 @@
 {
   "properties": {
-    "study_name": "Demo",
-    "study_id": "3ZDOGAH",
+    "study_name": "Test1",
+    "study_id": "Test1",
     "created_by": "Adrian Shatte",
     "instructions": "This is a demo study showing the features of schema",
     "post_url": "https://getschema.app/demo_post.php",
     "empty_msg": "You're all up to date",
-    "banner_url": "https://getschema.app/img/schema_banner.png",
+    "banner_url": "",
     "support_url": "https://getschema.app",
     "support_email": "hello@getschema.app",
     "conditions": [
@@ -87,16 +87,19 @@
             "minutes": 30
           },
           {
-            "hours": 18,
-            "minutes": 30
+            "hours": 22,
+            "minutes": 20
+          },
+          {
+            "hours": 22,
+            "minutes": 15
           }
         ],
         "random": true,
         "random_interval": 30,
         "sticky": false,
         "sticky_label": "",
-        "timeout": true,
-        "timeout_after": 30,
+        "timeout": false,
         "start_offset": 1
       },
       "graph": {
