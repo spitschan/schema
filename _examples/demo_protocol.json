@@ -6,7 +6,7 @@
     "instructions": "This is a demo study showing the features of schema",
     "post_url": "https://getschema.app/demo_post.php",
     "empty_msg": "You're all up to date",
-    "banner_url": "",
+    "banner_url": "https://raw.githubusercontent.com/spitschan/schema/5918c1b03b76b1547fe5e5a3f31cf1831c372019/_examples/oxtrack.png",
     "support_url": "https://getschema.app",
     "support_email": "hello@getschema.app",
     "conditions": [
