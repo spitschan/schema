@@ -2,7 +2,7 @@
   "properties": {
     "study_name": "Test1",
     "study_id": "Test1",
-    "created_by": "Adrian Shatte",
+    "created_by": "Manuel Spitschan",
     "instructions": "This is a demo study showing the features of schema",
     "post_url": "https://getschema.app/demo_post.php",
     "empty_msg": "You're all up to date",
