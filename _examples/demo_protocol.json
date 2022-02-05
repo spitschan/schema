@@ -28,11 +28,11 @@
         "duration": 1,
         "times": [
           {
-            "hours": 8,
+            "hours": 22,
             "minutes": 30
           }
         ],
-        "random": true,
+        "random": false,
         "random_interval": 30,
         "sticky": true,
         "sticky_label": "Start here",
@@ -75,27 +75,27 @@
         "duration": 50,
         "times": [
           {
-            "hours": 9,
-            "minutes": 30
-          },
-          {
-            "hours": 12,
-            "minutes": 30
-          },
-          {
-            "hours": 15,
-            "minutes": 30
+            "hours": 22,
+            "minutes": 35
           },
           {
             "hours": 22,
-            "minutes": 20
+            "minutes": 40
           },
           {
             "hours": 22,
-            "minutes": 15
+            "minutes": 45
+          },
+          {
+            "hours": 22,
+            "minutes": 50
+          },
+          {
+            "hours": 22,
+            "minutes": 55
           }
         ],
-        "random": true,
+        "random": false,
         "random_interval": 30,
         "sticky": false,
         "sticky_label": "",
