@@ -4,7 +4,7 @@
     "study_id": "Test1",
     "created_by": "Manuel Spitschan",
     "instructions": "This is a demo study showing the features of schema",
-    "post_url": "https://getschema.app/demo_post.php",
+    "post_url": "http://134.76.24.129/demo_post.php",
     "empty_msg": "You're all up to date",
     "banner_url": "https://raw.githubusercontent.com/spitschan/schema/5918c1b03b76b1547fe5e5a3f31cf1831c372019/_examples/oxtrack.png",
     "support_url": "https://getschema.app",
@@ -28,8 +28,8 @@
         "duration": 1,
         "times": [
           {
-            "hours": 22,
-            "minutes": 30
+            "hours": 23,
+            "minutes": 8
           }
         ],
         "random": false,
@@ -61,7 +61,7 @@
         }
       ],
       "shuffle": false,
-      "condition": "Control",
+      "condition": "*",
       "uuid": "3fb09fcd-4fca-4074-a395-34d65ee5a521",
       "unlock_after": []
     },
@@ -75,24 +75,32 @@
         "duration": 50,
         "times": [
           {
-            "hours": 22,
-            "minutes": 35
+            "hours": 8,
+            "minutes": 30
           },
           {
-            "hours": 22,
+            "hours": 9,
+            "minutes": 0
+          },
+          {
+            "hours": 19,
             "minutes": 40
           },
           {
-            "hours": 22,
-            "minutes": 45
+            "hours": 19,
+            "minutes": 41
           },
           {
-            "hours": 22,
-            "minutes": 50
+            "hours": 19,
+            "minutes": 42
           },
           {
-            "hours": 22,
-            "minutes": 55
+            "hours": 19,
+            "minutes": 49
+          },
+          {
+            "hours": 23,
+            "minutes": 0
           }
         ],
         "random": false,
@@ -100,7 +108,7 @@
         "sticky": false,
         "sticky_label": "",
         "timeout": false,
-        "start_offset": 1
+        "start_offset": 0	
       },
       "graph": {
         "display": true,
